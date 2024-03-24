@@ -5,7 +5,7 @@ Welcome to my GitHub !👋 I'm An Ho, a passionate full-stack developer who love
 ## 🚀 Quick Overview
 
 - 🔭 I work as a Full Stack Developer.
-- 👯 I’m looking to collaborate on open source projects or interesting ideas.
+- 🧑‍🔧 I’m looking to collaborate on open source projects or interesting ideas.
 - 💬 Ask me about anything! I'm happy to help.
 
 ## 🔧 Technologies & Tools
